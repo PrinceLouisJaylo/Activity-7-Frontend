@@ -44,3 +44,8 @@ C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\A
 C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPr.CCB8094C.Up2Date
 C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\bin\Debug\ReaLTaiizor.dll
 C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\bin\Debug\ReaLTaiizor.xml
+C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPrinceCafe.Admin.resources
+C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPrinceCafe.categories.resources
+C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPrinceCafe.menu_item.resources
+C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPrinceCafe.orders_items.resources
+C:\Users\HP\Desktop\3RD YEAR 2ND SEM BSIT 3C SUBJECTS\Event Driven Programming\Activity 7 Frontend\RobielPrinceCafe\obj\Debug\RobielPrinceCafe.Resetpass.resources

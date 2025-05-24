@@ -63,7 +63,12 @@ namespace RobielPrinceCafe
            
         }
 
-        
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Resetpass resetpassForm = new Resetpass();
+            resetpassForm.Show();
+            this.Hide(); // hide login while resetting
+        }
     }
 
 }

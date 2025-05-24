@@ -81,9 +81,9 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(39)))), ((int)(((byte)(35)))));
             this.label1.Location = new System.Drawing.Point(57, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(173, 28);
+            this.label1.Size = new System.Drawing.Size(287, 28);
             this.label1.TabIndex = 2;
-            this.label1.Text = "RobielPrinceCafe";
+            this.label1.Text = "RobielPrinceCafe: DashBoard";
             // 
             // nightControlBox1
             // 
@@ -159,6 +159,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "         Admin ";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // panel3
             // 
@@ -183,6 +184,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "         Categories";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // panel6
             // 
@@ -207,6 +209,7 @@
             this.button5.TabIndex = 2;
             this.button5.Text = "         Order Items";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // panel4
             // 
@@ -255,6 +258,7 @@
             this.button6.TabIndex = 2;
             this.button6.Text = "         Menu Items";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // panel5
             // 
